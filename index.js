@@ -1,3 +1,10 @@
+/*
+File: index.js
+Author: A.Vinod Kumar
+Date: 11/11/2017
+Purpose: Sample application server 1
+*/
+
 var http = require("http");
 
 var server = http.createServer(function (req, res) {
