@@ -1,0 +1,18 @@
+{
+  "name": "sujeshvinod_napp1",
+  "version": "1.0.0",
+  "description": "node application 1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sujeshvinod/napp1.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.Vinod Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
